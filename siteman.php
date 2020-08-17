@@ -14,9 +14,6 @@
 	</title>
     <link rel="stylesheet" href="<?= base_url()?>desa/css/osclop/asetku/covid19/css/dashlite.css?ver=1.4.0">
     <link id="skin-default" rel="stylesheet" href="<?= base_url()?>desa/css/osclop/asetku/covid19/css/theme.css?ver=1.4.0">
-		<?php if (is_file("desa/css/siteman.css")): ?>
-			<link type='text/css' href="<?= base_url()?>desa/css/siteman.css" rel='Stylesheet' />
-		<?php endif; ?>
 		<?php if (is_file(LOKASI_LOGO_DESA ."favicon.ico")): ?>
 			<link rel="shortcut icon" href="<?= base_url()?><?=LOKASI_LOGO_DESA?>favicon.ico" />
 		<?php else: ?>
