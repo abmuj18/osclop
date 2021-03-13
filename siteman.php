@@ -12,8 +12,8 @@
 			. get_dynamic_title_page_from_path();
 		?>
 	</title>
-    <link rel="stylesheet" href="<?= base_url()?>desa/css/osclop/asetku/covid19/css/dashlite.css?ver=1.4.0">
-    <link id="skin-default" rel="stylesheet" href="<?= base_url()?>desa/css/osclop/asetku/covid19/css/theme.css?ver=1.4.0">
+    <link rel="stylesheet" href="<?= base_url()?>desa/themes/osclop/assets/covid19/css/dashlite.css?ver=1.4.0">
+    <link id="skin-default" rel="stylesheet" href="<?= base_url()?>desa/themes/osclop/assets/covid19/css/theme.css?ver=1.4.0">
 		<?php if (is_file(LOKASI_LOGO_DESA ."favicon.ico")): ?>
 			<link rel="shortcut icon" href="<?= base_url()?><?=LOKASI_LOGO_DESA?>favicon.ico" />
 		<?php else: ?>
@@ -105,7 +105,7 @@
                         <div class="slider-item">
                             <div class="nk-feature nk-feature-center">
                                 <div class="nk-feature-img">
-                                    <img class="round" src="<?= base_url()?>desa/css/osclop/asetku/covid19/img/slide1.png" srcset="<?= base_url()?>desa/css/osclop/asetku/covid19/img/slide1.png 2x" alt="">
+                                    <img class="round" src="<?= base_url()?>desa/themes/osclop/assets/covid19/img/slide1.png" srcset="<?= base_url()?>desa/themes/osclop/assets/covid19/img/slide1.png 2x" alt="">
                                 </div>
                                 <div class="nk-feature-content py-4 p-sm-5">
                                     <h4>Coronavirus Disease 2019</h4>
@@ -116,7 +116,7 @@
                         <div class="slider-item">
                             <div class="nk-feature nk-feature-center">
                                 <div class="nk-feature-img">
-                                    <img class="round" src="<?= base_url()?>desa/css/osclop/asetku/covid19/img/slide2.png" srcset="<?= base_url()?>desa/css/osclop/asetku/covid19/img/slide2.png 2x" alt="">
+                                    <img class="round" src="<?= base_url()?>desa/themes/osclop/assets/covid19/img/slide2.png" srcset="<?= base_url()?>desa/themes/osclop/assets/covid19/img/slide2.png 2x" alt="">
                                 </div>
                                 <div class="nk-feature-content py-4 p-sm-5">
                                     <h4>Lindungi diri dan orang lain</h4>
@@ -127,7 +127,7 @@
                         <div class="slider-item">
                             <div class="nk-feature nk-feature-center">
                                 <div class="nk-feature-img">
-                                    <img class="round" src="<?= base_url()?>desa/css/osclop/asetku/covid19/img/slide3.png" srcset="<?= base_url()?>desa/css/osclop/asetku/covid19/img/slide3.png 2x" alt="">
+                                    <img class="round" src="<?= base_url()?>desa/themes/osclop/assets/covid19/img/slide3.png" srcset="<?= base_url()?>desa/themes/osclop/assets/covid19/img/slide3.png 2x" alt="">
                                 </div>
                                 <div class="nk-feature-content py-4 p-sm-5">
                                     <h4>Adaptasi Kebiasaan Baru</h4>
@@ -143,8 +143,8 @@
         </div><!-- .nk-split -->
     </div><!-- app body @e -->
     <!-- JavaScript -->
-    <script src="<?= base_url()?>desa/css/osclop/asetku/covid19/js/bundle.js?ver=1.4.0"></script>
-    <script src="<?= base_url()?>desa/css/osclop/asetku/covid19/js/scripts.js?ver=1.4.0"></script>  
+    <script src="<?= base_url()?>desa/themes/osclop/assets/covid19/js/bundle.js?ver=1.4.0"></script>
+    <script src="<?= base_url()?>desa/themes/osclop/assets/covid19/js/scripts.js?ver=1.4.0"></script>  
 </body>
 </html>
 <script src="<?= base_url()?>assets/bootstrap/js/jquery.min.js"></script>
