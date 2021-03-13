@@ -5,11 +5,11 @@
 OSCLOP adalah singkatan dari *OpenSID Custom Login Page* dimana repository ini adalah paket atau *source code* untuk merubah tampilan halaman login aplikasi OpenSID yang minimalis dan responsif.
 
 ## Cara Pemasangan
-- Sebelumnya untuk melakukan pemasangan paket ini anda telah meng-install dan atau memiliki **OpenSID** versi terbaru, dapatkan **OpenSID**terbaru [disini](https://github.com/OpenSID/OpenSID)
+- Sebelumnya untuk melakukan pemasangan paket ini anda telah meng-install dan atau memiliki **OpenSID** versi terbaru, dapatkan **OpenSID** terbaru [disini](https://github.com/OpenSID/OpenSID)
 - Lakukan *backup* terlebih dahulu *file* master **siteman.php** yang ada di direktori `donjo-app/views/`
 - Kemudian unduh *source code* **OSCLOP**
-- Selanjutnya *extract* berkas yang telah diunduh dan salin semua hasil *extract* ke direktori `desa/css/`
-- Buka direktori `desa/css/osclop/` kemudian salin *file* **siteman.php** ke direktori `donjo-app/views/`
+- Selanjutnya *extract* berkas yang telah diunduh dan salin semua hasil *extract* ke direktori `desa/themes/`
+- Buka direktori `desa/themes/osclop/` kemudian salin *file* **siteman.php** ke direktori `donjo-app/views/`
 - Selesai
 
 ## Kontribusi
