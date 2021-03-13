@@ -1,5 +1,5 @@
 # OSCLOP
-![readme-image](https://raw.githubusercontent.com/abmuj18/osclop/master/asetku/covid19/img/osclop.png "OpenSID Custom Login Page")
+![readme-image](https://raw.githubusercontent.com/abmuj18/osclop/master/assets/covid19/img/osclop.png "OpenSID Custom Login Page")
 
 ## Apa itu OSCLOP?
 OSCLOP adalah singkatan dari *OpenSID Custom Login Page* dimana repository ini adalah paket atau *source code* untuk merubah tampilan halaman login aplikasi OpenSID yang minimalis dan responsif.
